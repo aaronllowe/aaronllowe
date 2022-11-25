@@ -1,2 +1,1 @@
 - Hey, I’m Aaron!
-- I speak Javascript (node.js), Python, and a sprinkle of C/C++.
